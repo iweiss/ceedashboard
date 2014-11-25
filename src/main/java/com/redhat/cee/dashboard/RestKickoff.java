@@ -1,4 +1,4 @@
-package com.redhat.gss.dashboard;
+package com.redhat.cee.dashboard;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

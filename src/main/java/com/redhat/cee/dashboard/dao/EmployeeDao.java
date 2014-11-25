@@ -1,11 +1,11 @@
-package com.redhat.gss.dashboard.dao;
+package com.redhat.cee.dashboard.dao;
 
 import javax.ejb.Stateful;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.PersistenceContextType;
-import com.redhat.gss.dashboard.domain.Employee;
+import com.redhat.cee.dashboard.domain.Employee;
 import org.slf4j.Logger;
 
 /**

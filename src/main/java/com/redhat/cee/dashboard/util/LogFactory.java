@@ -1,4 +1,4 @@
-package com.redhat.gss.dashboard.util;
+package com.redhat.cee.dashboard.util;
 
 import javax.enterprise.inject.Produces;
 import javax.enterprise.inject.spi.InjectionPoint;

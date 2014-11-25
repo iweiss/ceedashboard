@@ -1,4 +1,4 @@
-package com.redhat.gss.dashboard.domain;
+package com.redhat.cee.dashboard.domain;
 
 import java.io.Serializable;
 import java.util.List;

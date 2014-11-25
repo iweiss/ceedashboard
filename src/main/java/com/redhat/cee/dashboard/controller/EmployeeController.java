@@ -1,12 +1,12 @@
-package com.redhat.gss.dashboard.controller;
+package com.redhat.cee.dashboard.controller;
 
 import java.util.ArrayList;
 import javax.inject.Inject;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-import com.redhat.gss.dashboard.dao.EmployeeDao;
-import com.redhat.gss.dashboard.domain.Engineer;
+import com.redhat.cee.dashboard.dao.EmployeeDao;
+import com.redhat.cee.dashboard.domain.Engineer;
 import org.slf4j.Logger;
 
 /**

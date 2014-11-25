@@ -1,8 +1,7 @@
-package com.redhat.gss.dashboard.domain;
+package com.redhat.cee.dashboard.domain;
 
 import java.util.ArrayList;
 import javax.persistence.Entity;
-import javax.persistence.Id;
 
 /**
  * Author: Ingo Weiss <iweiss@redhat.com>
