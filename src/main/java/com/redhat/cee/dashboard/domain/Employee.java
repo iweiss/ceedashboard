@@ -26,7 +26,7 @@ public class Employee implements Serializable
     @NotNull
     private String position;
 
-    @OneToMany
+    @OneToMany(cascade = CascadeType.PERSIST)
     private List<PTO> pto;
 
     public long getId()
